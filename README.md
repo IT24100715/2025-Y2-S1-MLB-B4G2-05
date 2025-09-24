@@ -77,7 +77,7 @@ notebooks/
 ├── IT24100564-NormalizationScaling.ipynb
 ├── IT24100593-FeatureSelection.ipynb
 ├── IT24100715-DimensionReduction.ipynb
-└── IT24100636-Binning.ipynb
+└── IT24100636_Feature_Creation.ipynb
 
 ---
 
