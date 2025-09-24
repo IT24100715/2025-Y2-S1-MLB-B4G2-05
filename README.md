@@ -10,7 +10,7 @@ Our goal is to preprocess the dataset, clean it, and prepare it for machine lear
 
 The preprocessing pipeline includes:  
 - Encoding categorical variables  
-- Handling Missing Data 
+- Feature Creation 
 - Outlier removal  
 - Normalization / scaling  
 - Feature selection  
@@ -42,7 +42,7 @@ Each team member contributed to one preprocessing technique, and together, we cr
 
 - IT24100715 – Dimensionality Reduction (PCA) (Madhushan W.M.G)  
 
-- IT24100636 – Binning (Discretization) (Fernando T.M.I.U)   
+- IT24100636 – Feature Creation(Fernando T.M.I.U)   
 
 ---
 
